@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ben Zhong 
+- 👋 Hi, I’m Ben Z
 - You can reach me at benjaminzhong1@gmail.com
 
 <!---
