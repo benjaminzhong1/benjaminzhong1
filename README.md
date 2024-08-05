@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ben You can reach me at benjaminzhong1@gmail.com
+- 👋 Hi, I’m Ben You can view my work here and/or on benjaminzhong1.com
 
 <!---
 benjaminzhong1/benjaminzhong1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
